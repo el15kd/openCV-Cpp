@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(13): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(21): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(22): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'opencv_world331d.obj'

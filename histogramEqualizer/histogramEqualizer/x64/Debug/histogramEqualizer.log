@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\konstantindragostino\source\repos\histogramequalizer\histogramequalizer\source.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  histogramEqualizer.vcxproj -> C:\Users\KonstantinDragostino\source\repos\histogramEqualizer\x64\Debug\histogramEqualizer.exe
