@@ -17,21 +17,12 @@ int main(int argc, const char**argv) {
 	split(hist2,channels); //splits a multi-channel array into separate single-channel arrays
 	equalizeHist(channels[2],channels[2]);
 	merge(channels, hist);
-	cvtColor();
-	namedWindow("Original", CV_WINDOW_KEEPRATIO);
-	namedWindow("Brighter", CV_WINDOW_KEEPRATIO);
-	namedWindow("Darker", CV_WINDOW_KEEPRATIO);
-	namedWindow("Contrast", CV_WINDOW_KEEPRATIO);
-	namedWindow("Gray", CV_WINDOW_KEEPRATIO);
-	namedWindow("Histogram", CV_WINDOW_KEEPRATIO);
-	namedWindow("Histogram-2", CV_WINDOW_KEEPRATIO);
-	imshow("Original", original);
-	imshow("Brighter", brighter);
-	imshow("Darker", darker);
-	imshow("Contrast", contrast);
-	imshow("Gray", gray);
-	imshow("Histogram", hist);
-	imshow("Histogram-2", hist);
+	namedWindow("Original", CV_WINDOW_KEEPRATIO); namedWindow("Brighter", CV_WINDOW_KEEPRATIO);
+	namedWindow("Darker", CV_WINDOW_KEEPRATIO); namedWindow("Contrast", CV_WINDOW_KEEPRATIO);
+	namedWindow("Gray", CV_WINDOW_KEEPRATIO); namedWindow("Histogram", CV_WINDOW_KEEPRATIO);
+	imshow("Original", original); imshow("Brighter", brighter);
+	imshow("Darker", darker); imshow("Contrast", contrast);
+	imshow("Gray", gray); imshow("Histogram", hist);
 	//An image histogram is a plot, for each pixel, of the pixel intensity (in x) corresponding to the number of pixels possessing this intensity (in y) (intensity vs pixel plot)
 	//can use frequency (as a %) insteaad of number of pixels; how often a pixel intensity appears
 	//can also use cumulative frequency, e.g. at some x-y location, 92.1% of pixels have an intensity value <= 189, 
