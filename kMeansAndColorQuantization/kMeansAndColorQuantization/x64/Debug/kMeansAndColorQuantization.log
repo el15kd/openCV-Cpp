@@ -1,0 +1,5 @@
+﻿  quantization.cpp
+c:\users\konstantindragostino\source\repos\colorquantization\colorquantization\quantization.cpp(32): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\konstantindragostino\source\repos\colorquantization\colorquantization\quantization.cpp(33): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\konstantindragostino\source\repos\colorquantization\colorquantization\quantization.cpp(34): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+  colorQuantization.vcxproj -> C:\Users\KonstantinDragostino\source\repos\colorQuantization\x64\Debug\colorQuantization.exe
