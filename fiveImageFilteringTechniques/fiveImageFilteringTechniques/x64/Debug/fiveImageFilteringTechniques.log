@@ -1,3 +1,0 @@
-﻿  filters.cpp
-c:\users\konstantindragostino\source\repos\fiveimagefilteringtechniques\fiveimagefilteringtechniques\filters.cpp(10): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  fiveImageFilteringTechniques.vcxproj -> C:\Users\KonstantinDragostino\source\repos\fiveImageFilteringTechniques\x64\Debug\fiveImageFilteringTechniques.exe
