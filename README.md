@@ -1,1 +1,1 @@
-I have explored multiple techniques in each file to reduce the number of files and make it easier to observe the results. Each sub-folder contains a .cpp file with code and a .jpg/.png with the code output
+I have explored multiple techniques in each file to reduce the number of files and make it easier to observe the results. Each sub-folder contains a .cpp file with code and a .jpg/.png with the code output. Each file is complete (does what it is expected to), but sub-optimal (code could be improved in terms of performance).
