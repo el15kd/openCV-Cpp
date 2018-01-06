@@ -1,4 +1,0 @@
-﻿  fiveEdgeDetectionTechniques.cpp
-c:\users\konstantindragostino\source\repos\fiveedgedetectiontechniques\fiveedgedetectiontechniques\fiveedgedetectiontechniques.cpp(40): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\konstantindragostino\source\repos\fiveedgedetectiontechniques\fiveedgedetectiontechniques\fiveedgedetectiontechniques.cpp(59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  fiveEdgeDetectionTechniques.vcxproj -> C:\Users\KonstantinDragostino\source\repos\fiveEdgeDetectionTechniques\x64\Debug\fiveEdgeDetectionTechniques.exe
